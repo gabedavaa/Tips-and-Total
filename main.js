@@ -39,18 +39,23 @@ const calcBill = function (percent) {
 
 btn1.addEventListener('click', function () {
   calcBill(0.05);
+  console.log('btn1');
 });
 btn2.addEventListener('click', function () {
   calcBill(0.1);
+  console.log('btn2');
 });
 btn3.addEventListener('click', function () {
   calcBill(0.15);
+  console.log('btn3');
 });
 btn4.addEventListener('click', function () {
   calcBill(0.25);
+  console.log('btn4');
 });
 btn5.addEventListener('click', function () {
   calcBill(0.5);
+  console.log('btn5');
 });
 
 //custome
@@ -73,4 +78,5 @@ resetBtn.addEventListener('click', function () {
   document.getElementById('people').value = '';
   document.querySelector('.total-amount').textContent = '$0.00';
   document.querySelector('.tip-amount').textContent = '$0.00';
+  console.log('resetBtn');
 });
