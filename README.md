@@ -3,7 +3,7 @@ This is a solution to the Tip calculator app. Frontend Mentor challenges help yo
 
 
 Link
-Live Site URL: Click here
+Live Site URL: Click here{https://www.youtube.com/}
 
 
 Author
