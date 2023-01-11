@@ -4,14 +4,8 @@ This is a solution to the Tip calculator app. Frontend Mentor challenges help yo
 Links
 Solution URL: Click here
 Live Site URL: Click here
-Created with
-Javascript
-Semantic HTML5 markup
-CSS custom properties
-Flexbox
-CSS Grid
-Mobile-first workflow
+
+
+
 Author
-CodePen - @iosebkhe
-Frontend Mentor - @iosebkhe
-Linkedin - Ioseb Khetsuriani
+Linkedin - [Ioseb Khetsuriani]{https://www.frontendmentor.io/}
